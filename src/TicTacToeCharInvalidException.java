@@ -1,0 +1,3 @@
+class TicTacToeCharInvalidException extends Exception {
+
+}

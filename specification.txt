@@ -1,0 +1,10 @@
+Specification
+
+ - Start board is empty
+ - Start board is 3 by 3
+ - Putting a piece on the board replaces the empty character with player's character
+ - One cannot put a piece outside of the board
+ - One player uses crosses, one uses naughts.
+ - If one player fills up a space, the other cannot overwrite that space.
+ - If one player gets 3 of their kind in a row, they win, and the other loses
+ - You cannot keep playing if one player has already won.

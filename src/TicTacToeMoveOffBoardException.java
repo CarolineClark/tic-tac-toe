@@ -1,0 +1,4 @@
+
+class TicTacToeMoveOffBoardException extends Exception {
+
+}
